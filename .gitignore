@@ -1,0 +1,7 @@
+/.idea/
+/*.iml
+/.scannerwork/
+/app
+/assets/node_modules/
+/data/
+/uploads/
